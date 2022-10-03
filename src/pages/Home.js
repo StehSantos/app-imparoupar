@@ -8,11 +8,11 @@ export default function Home(){
         let resultado= num % 2;
     if (resultado == 0) 
     {
-            alert("Este número é par");
+            alert("Este número é um numero par");
     }
     else 
     {
-            alert("Este número é ímpar");
+            alert("Este número é um numero ímpar");
     }
  }
  
